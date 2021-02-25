@@ -1,1 +1,1 @@
-Web scraping of Amazon best selling books.
+Web scraping of Amazon best seller books.
