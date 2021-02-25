@@ -1,1 +1,1 @@
-# amazon_web_scraping
+Web scraping of Amazon best selling books.
